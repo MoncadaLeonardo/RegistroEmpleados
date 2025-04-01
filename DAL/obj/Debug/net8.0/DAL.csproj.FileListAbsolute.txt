@@ -1,0 +1,15 @@
+C:\Users\leona\Desktop\UVALLE\3ER_AÑO\1_CUATRIUVALLE\3. Diseño_de_Sistemas\SistemaEmpleadosColegioBautista\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\leona\Desktop\UVALLE\3ER_AÑO\1_CUATRIUVALLE\3. Diseño_de_Sistemas\SistemaEmpleadosColegioBautista\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Desktop\UVALLE\3ER_AÑO\1_CUATRIUVALLE\3. Diseño_de_Sistemas\SistemaEmpleadosColegioBautista\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\leona\Desktop\UVALLE\3ER_AÑO\1_CUATRIUVALLE\3. Diseño_de_Sistemas\SistemaEmpleadosColegioBautista\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\leona\Desktop\UVALLE\3ER_AÑO\1_CUATRIUVALLE\3. Diseño_de_Sistemas\SistemaEmpleadosColegioBautista\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\UVALLE\3ER_AÑO\1_CUATRIUVALLE\3. Diseño_de_Sistemas\SistemaEmpleadosColegioBautista\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\leona\Desktop\UVALLE\3ER_AÑO\1_CUATRIUVALLE\3. Diseño_de_Sistemas\SistemaEmpleadosColegioBautista\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\leona\Desktop\UVALLE\3ER_AÑO\1_CUATRIUVALLE\3. Diseño_de_Sistemas\SistemaEmpleadosColegioBautista\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\leona\Desktop\UVALLE\3ER_AÑO\1_CUATRIUVALLE\3. Diseño_de_Sistemas\SistemaEmpleadosColegioBautista\DAL\bin\Debug\net8.0\EL.dll
+C:\Users\leona\Desktop\UVALLE\3ER_AÑO\1_CUATRIUVALLE\3. Diseño_de_Sistemas\SistemaEmpleadosColegioBautista\DAL\bin\Debug\net8.0\EL.pdb
+C:\Users\leona\Desktop\UVALLE\3ER_AÑO\1_CUATRIUVALLE\3. Diseño_de_Sistemas\SistemaEmpleadosColegioBautista\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\leona\Desktop\UVALLE\3ER_AÑO\1_CUATRIUVALLE\3. Diseño_de_Sistemas\SistemaEmpleadosColegioBautista\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\leona\Desktop\UVALLE\3ER_AÑO\1_CUATRIUVALLE\3. Diseño_de_Sistemas\SistemaEmpleadosColegioBautista\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\leona\Desktop\UVALLE\3ER_AÑO\1_CUATRIUVALLE\3. Diseño_de_Sistemas\SistemaEmpleadosColegioBautista\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\leona\Desktop\UVALLE\3ER_AÑO\1_CUATRIUVALLE\3. Diseño_de_Sistemas\SistemaEmpleadosColegioBautista\DAL\obj\Debug\net8.0\ref\DAL.dll
