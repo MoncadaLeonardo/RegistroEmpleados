@@ -1,0 +1,23 @@
+# Archivos de Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+# Archivos compilados
+bin/
+obj/
+
+# Archivos de paquetes y configuración
+*.dll
+*.pdb
+*.exe
+*.db
+*.sqlite
+*.mdf
+*.ldf
+
+# Configuración personal
+appsettings.json
+appsettings.Development.json

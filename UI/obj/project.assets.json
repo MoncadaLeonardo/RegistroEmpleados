@@ -1707,11 +1707,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leona\\Desktop\\UVALLE\\3ER_AÑO\\1_CUATRIUVALLE\\3. Diseño_de_Sistemas\\SistemaEmpleadosColegioBautista\\UI\\UI.csproj",
+      "projectUniqueName": "C:\\Users\\leona\\Desktop\\UVALLE\\3ER_AÑO\\1_CUATRIUVALLE\\3. Diseño_de_Sistemas\\SistemaEmpleadosColegioBautista\\RegistroEmpleados\\UI\\UI.csproj",
       "projectName": "UI",
-      "projectPath": "C:\\Users\\leona\\Desktop\\UVALLE\\3ER_AÑO\\1_CUATRIUVALLE\\3. Diseño_de_Sistemas\\SistemaEmpleadosColegioBautista\\UI\\UI.csproj",
+      "projectPath": "C:\\Users\\leona\\Desktop\\UVALLE\\3ER_AÑO\\1_CUATRIUVALLE\\3. Diseño_de_Sistemas\\SistemaEmpleadosColegioBautista\\RegistroEmpleados\\UI\\UI.csproj",
       "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leona\\Desktop\\UVALLE\\3ER_AÑO\\1_CUATRIUVALLE\\3. Diseño_de_Sistemas\\SistemaEmpleadosColegioBautista\\UI\\obj\\",
+      "outputPath": "C:\\Users\\leona\\Desktop\\UVALLE\\3ER_AÑO\\1_CUATRIUVALLE\\3. Diseño_de_Sistemas\\SistemaEmpleadosColegioBautista\\RegistroEmpleados\\UI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1732,11 +1732,11 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\leona\\Desktop\\UVALLE\\3ER_AÑO\\1_CUATRIUVALLE\\3. Diseño_de_Sistemas\\SistemaEmpleadosColegioBautista\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\leona\\Desktop\\UVALLE\\3ER_AÑO\\1_CUATRIUVALLE\\3. Diseño_de_Sistemas\\SistemaEmpleadosColegioBautista\\DAL\\DAL.csproj"
+            "C:\\Users\\leona\\Desktop\\UVALLE\\3ER_AÑO\\1_CUATRIUVALLE\\3. Diseño_de_Sistemas\\SistemaEmpleadosColegioBautista\\RegistroEmpleados\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\leona\\Desktop\\UVALLE\\3ER_AÑO\\1_CUATRIUVALLE\\3. Diseño_de_Sistemas\\SistemaEmpleadosColegioBautista\\RegistroEmpleados\\DAL\\DAL.csproj"
             },
-            "C:\\Users\\leona\\Desktop\\UVALLE\\3ER_AÑO\\1_CUATRIUVALLE\\3. Diseño_de_Sistemas\\SistemaEmpleadosColegioBautista\\EL\\EL.csproj": {
-              "projectPath": "C:\\Users\\leona\\Desktop\\UVALLE\\3ER_AÑO\\1_CUATRIUVALLE\\3. Diseño_de_Sistemas\\SistemaEmpleadosColegioBautista\\EL\\EL.csproj"
+            "C:\\Users\\leona\\Desktop\\UVALLE\\3ER_AÑO\\1_CUATRIUVALLE\\3. Diseño_de_Sistemas\\SistemaEmpleadosColegioBautista\\RegistroEmpleados\\EL\\EL.csproj": {
+              "projectPath": "C:\\Users\\leona\\Desktop\\UVALLE\\3ER_AÑO\\1_CUATRIUVALLE\\3. Diseño_de_Sistemas\\SistemaEmpleadosColegioBautista\\RegistroEmpleados\\EL\\EL.csproj"
             }
           }
         }

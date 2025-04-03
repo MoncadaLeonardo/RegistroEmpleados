@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oEVxL4U+XUc=",
+  "dgSpecHash": "sIGuR+oPhxA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\leona\\Desktop\\UVALLE\\3ER_AÑO\\1_CUATRIUVALLE\\3. Diseño_de_Sistemas\\SistemaEmpleadosColegioBautista\\UI\\UI.csproj",
+  "projectFilePath": "C:\\Users\\leona\\Desktop\\UVALLE\\3ER_AÑO\\1_CUATRIUVALLE\\3. Diseño_de_Sistemas\\SistemaEmpleadosColegioBautista\\RegistroEmpleados\\UI\\UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leona\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\leona\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

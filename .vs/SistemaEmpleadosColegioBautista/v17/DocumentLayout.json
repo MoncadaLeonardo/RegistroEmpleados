@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leona\\Desktop\\UVALLE\\3ER_A\u00D1O\\1_CUATRIUVALLE\\3. Dise\u00F1o_de_Sistemas\\SistemaEmpleadosColegioBautista\\RegistroEmpleados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A55D0FF-66A1-47ED-BA4B-6A2C7E917B57}|DAL\\DAL.csproj|c:\\users\\leona\\desktop\\uvalle\\3er_a\u00F1o\\1_cuatriuvalle\\3. dise\u00F1o_de_sistemas\\sistemaempleadoscolegiobautista\\registroempleados\\dal\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A55D0FF-66A1-47ED-BA4B-6A2C7E917B57}|DAL\\DAL.csproj|solutionrelative:dal\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A55D0FF-66A1-47ED-BA4B-6A2C7E917B57}|DAL\\DAL.csproj|c:\\users\\leona\\desktop\\uvalle\\3er_a\u00F1o\\1_cuatriuvalle\\3. dise\u00F1o_de_sistemas\\sistemaempleadoscolegiobautista\\registroempleados\\dal\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A55D0FF-66A1-47ED-BA4B-6A2C7E917B57}|DAL\\DAL.csproj|solutionrelative:dal\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1473,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\UVALLE\\3ER_A\u00D1O\\1_CUATRIUVALLE\\3. Dise\u00F1o_de_Sistemas\\SistemaEmpleadosColegioBautista\\RegistroEmpleados\\DAL\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "DAL\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\UVALLE\\3ER_A\u00D1O\\1_CUATRIUVALLE\\3. Dise\u00F1o_de_Sistemas\\SistemaEmpleadosColegioBautista\\RegistroEmpleados\\DAL\\EmpleadoController.cs",
+              "RelativeToolTip": "DAL\\EmpleadoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:07:44.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConexionBD.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\UVALLE\\3ER_A\u00D1O\\1_CUATRIUVALLE\\3. Dise\u00F1o_de_Sistemas\\SistemaEmpleadosColegioBautista\\RegistroEmpleados\\DAL\\ConexionBD.cs",
+              "RelativeDocumentMoniker": "DAL\\ConexionBD.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\UVALLE\\3ER_A\u00D1O\\1_CUATRIUVALLE\\3. Dise\u00F1o_de_Sistemas\\SistemaEmpleadosColegioBautista\\RegistroEmpleados\\DAL\\ConexionBD.cs",
+              "RelativeToolTip": "DAL\\ConexionBD.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:07:37.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
